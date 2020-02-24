@@ -1,0 +1,29 @@
+#
+# Pinuts Universal Messenger
+# License
+#
+# (erstellt 15.01.2020 von Tilman Issing)
+#
+
+license.id = "WfABkQcP"
+
+product = "Universal Messenger"
+
+version = "7.x"
+edition = "Customer Interaction"
+type = "Test"
+
+licensee = "Deutsche B\u00f6rse AG"
+recipient = ""
+
+contract = "PINUTS"
+
+expirationdate = "2020/04/15"
+sender.domains = ""
+sender.limit = "5"
+
+replyto.limit = "5"
+
+features = "AdditionalAttributes AdminRoles AttributeGroups AttributeGroups_Flexible CSE CustomUserIcons DKIM EntryTypes ExecuteSql ExternalConfig Jobs Job_ActivateEvent Job_ShellExec NewsletterArchive NewsletterBodyURL NewsletterQueue NewsletterSegmentation Plugin_de.pinuts.cmsbs.dashboard Plugin_de.pinuts.cmsbs.entryoverview Plugin_de.pinuts.cmsbs.newsletter SystemDashboard TableAttribute Tagging MultipleMailRelays TrackingFilter TrackingFilter_ToChannel VisualQuery HtmlAttribute AttachmentAttribute"
+
+pinuts.signature=a0OJ7Bi/YeKUSoUOhZX6JTuE/VHIKyRyvUjNIAJas+q2+tzG2yyulKWbRfmMlw+WAA4yOxDI6cFZQDiNtr8jkSYTt0+YhoD4Q96PvoAf+ffir+SFetdj/vWWfDBTyj4QE3PctzMOLHR8vGp9anq+z3EY+UqxJMNsFOPJFNVrJ4ynrzjVSepgfNngtzHtqwVYsILd9y9NLnNJsdoEoblBo5dOVlzCtPKZEv6bXNXI+SqfQZXHJESNmtiqVaNeRgqynu+VLgVGwEJdZ407M8BTcqD8SIUVfoUUqfO7V0Ns8+LsB8Y3Tj2OImdBbuFFzPBhAdWkJckBQPZTNlXc5BkvsQ==
